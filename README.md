@@ -14,13 +14,11 @@ Clone or download this repository
 Enter your local directory, and install dependencies:
 npm install
 
-#Develop
-
-# serve with hot reload at localhost:8010
+# Develop
+ serve with hot reload at localhost:8010
 npm run dev
 
-#Build
-
-# build for production with minification
+# Build
+ build for production with minification
 npm run build
 
